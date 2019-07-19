@@ -1,8 +1,9 @@
 # Development Helper Tools
 Drupal 8 Development Tools
 
-# Style & Compliance Guide
-	HTML for including in websites for help with styling and instructions for future CMS  users and Devs
+ Style & Compliance Guide
+ 
+ 	HTML for including in websites for help with styling and instructions for future CMS  users and Devs
  
  How to install
 	
