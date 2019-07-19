@@ -7,6 +7,7 @@ Drupal 8 Development Tools
  
  How to install
 	
+	-- Download from https://github.com/dkomito/dkomito_dev_tools
 	drush en dkomito_dev_tools
 	
 		By default, it installs on the user account menu
