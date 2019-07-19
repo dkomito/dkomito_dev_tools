@@ -1,0 +1,8 @@
+
+dkomito_dev_tools.d_komito_dev_tools_controller_style_compliance_guide:
+  path: '/style-compliance-guide'
+  defaults:
+    _controller: '\Drupal\dkomito_dev_tools\Controller\DKomitoDevToolsController::style_compliance_guide'
+    _title: 'Style & Compliance Guide'
+  requirements:
+    _permission: 'access content'

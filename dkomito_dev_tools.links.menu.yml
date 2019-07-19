@@ -1,0 +1,7 @@
+dkomito_dev_tools.style_compliance_guide:
+  title: 'Style & Compliance Guide'
+  description: 'HTML for including in websites for help with styling and instructions for future CMS  users and Devs'
+  parent: account
+  menu_name: account
+  route_name: dkomito_dev_tools.d_komito_dev_tools_controller_style_compliance_guide
+  weight: -20
