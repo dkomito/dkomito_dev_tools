@@ -6,3 +6,11 @@ dkomito_dev_tools.d_komito_dev_tools_controller_style_compliance_guide:
     _title: 'Style & Compliance Guide'
   requirements:
     _permission: 'style compliance guide'
+
+dkomito_dev_tools.d_komito_dev_tools_controller_blank_page:
+  path: '/blank-page'
+  defaults:
+    _controller: '\Drupal\dkomito_dev_tools\Controller\DKomitoDevToolsController::blank_page'
+    _title: ''
+  requirements:
+    _permission: 'access content'

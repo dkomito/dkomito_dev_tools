@@ -23,4 +23,14 @@ class DKomitoDevToolsController extends ControllerBase {
     ];
   }
 
+
+  /**
+   * A blank page.  Handy for using as the home page.
+   *
+   * @return string
+   *   Return Hello string.
+   */
+  public function blank_page() {
+    return [];
+  }
 }
